@@ -1,0 +1,176 @@
+body{
+    background-image: url('/Scene...13.jpg');
+    background-size: cover;
+    padding:2rem;
+}
+
+.gameContent{
+    display: grid;
+    grid-template-rows: 0.2fr 0.8fr;
+    grid-gap: 2.5rem;
+}
+
+/*BARRA SUPERIOR PARA SACAR BOLAS*/
+.topContent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navBar{
+    width:95%;
+    height: 5rem;
+    border-radius: 40px;
+    border:1px solid rgb(255, 255, 255);
+    display: grid;
+    grid-template-columns: 0.3fr 0.4fr 0.3fr;
+
+}
+.navBarLeft{
+    background-color: rgba(255, 255, 255, 0.32);
+    border-radius:40px 0 0 40px;
+    border-right: 15px solid transparent;
+    border-image: linear-gradient(rgb(255, 255, 255), rgb(117, 116, 116)) 1;
+
+}
+.buttonHome{
+    border:3px solid rgb(208, 208, 208);
+    background-image: url('/home.png');
+    background-size: contain;
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navBarCenter{
+    background: rgb(166,166,166);
+    background: linear-gradient(0deg, rgba(166,166,166,1) 0%, rgb(26, 26, 26) 100%);
+    border-top: 3px solid rgb(219, 218, 218);
+}
+.navBarRight{
+    background-color: rgba(255, 255, 255, 0.32);
+    border-radius:0 40px 40px 0;
+    border-left: 15px solid transparent;
+    border-image: linear-gradient(rgb(255, 255, 255), rgb(117, 116, 116)) 1;
+
+}
+
+/*PARTE DE CARTON Y DEMAS */
+
+.bottomContent{
+    display:grid;
+    grid-template-columns: 0.4fr 0.6fr ;
+
+}
+
+/* DISEÑO DE CAJA PARA LOS NUMEROS QUE HAN SALIDO YA*/
+.boxNumberSeen{
+
+    display: flex;
+    justify-content: center;
+
+}
+.seenMain{
+    /* background-color: rgba(255, 255, 255, 0.717); */
+    background-color: rgba(215, 237, 19, 0.667);
+    width:15rem;
+    justify-content: center;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    row-gap: 10px;
+    
+}
+.titleSeen{
+    display: flex;
+    justify-content: space-between;
+    gap:5px;
+}
+.titleSeen div{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 800;
+    font-size: 35px;
+    border-radius: 8px;
+    height: 2rem;
+    width: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.numberSeen{
+    border: 2px solid rgb(109, 109, 109);
+    /* background-color: rgba(149, 149, 149, 0.657); */
+    background-color: rgba(254, 146, 13, 0.656);
+    border-radius:8px;
+    display: grid;
+    grid-template-rows: repeat(15,25px);
+    grid-template-columns: repeat(5,25px);
+    justify-content: space-between;
+    row-gap: 5px;
+    padding: 10px;
+    
+}
+.numberSeen div{
+    /* border: 3px solid rgb(107, 107, 107); */
+    border-radius: 4px;
+    background-color: rgba(230, 228, 228, 0.689);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+}
+
+
+
+/* DISEÑO DE CAJA PARA EL CARTON*/
+.boxCard{
+    display: flex;
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardGame{
+    /* background-color: rgba(255, 255, 255, 0.717); */
+    height: 90%;
+    display: grid;
+    grid-template-rows: 0.15fr 0.85fr;
+    padding: 5px;
+    border-radius: 6px;
+}
+.titleCard{
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: repeat(5,90px);
+    border-radius: 6px;
+    background-color: rgba(254, 146, 13, 0.808);
+}
+.titleCard div{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 800;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.numbersCard{
+    
+    display: grid;
+    grid-template-columns: repeat(5,90px);
+}
+.numbersCard div{
+    border: 1px solid black;
+    height: 80px;
+    border-radius: 6px;
+    background-color: rgba(215, 237, 19, 0.667);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+}

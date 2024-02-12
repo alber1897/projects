@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<title>Bingo TFG</title>
+		<meta charset="utf-8">
+		<meta name="author" content="Ainhoa Barrado Alba">
+		<meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="/login.css">
+		
+	</head>
+	<body>
+        <section class="login">
+            
+                
+                <div class="containerLog">
+                    <h1>Bingo Online</h1>
+                    <form action="/bingo" method="post" class="formulario"></form>
+
+                        <div class="user">
+                            <p>Nombre de usuario</p>
+                            <input type="text" id="usuario" name="usuario" placeholder="Usuario" aria-label="Usuario">
+                        </div>  
+
+                        <div class="players">
+                            <p>Modo jugador</p>
+                            <input type="radio" id="opcion1" name="modo" value="1"><label for="opcion1"> 1</label>
+                            <input type="radio" id="opcion2" name="modo" value="1+"><label for="opcion2"> 1+</label>
+                        </div>
+
+                        <div class="answers">
+                            <p>¿Con cuántas preguntas por cartón quieres jugar?</p>
+                            <label><input type="radio" name="tamaño" value="15"> 15</label>
+                            <label><input type="radio" name="tamaño" value="20"> 20</label>
+                            <label><input type="radio" name="tamaño" value="25"> 25</label>
+                        </div>
+                        
+                        <input type="submit" name="action" value="Start" class="button">
+                    </form>
+                </div>
+            
+        </section>
+		
+	</body>
+</html>
