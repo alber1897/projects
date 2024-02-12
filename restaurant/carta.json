@@ -1,0 +1,296 @@
+{
+    "entrantes": [
+        {
+            "idProducto": 1,
+            "idSeccion": "entrantes",
+            "nombrePlato": "Krispy Tenders",
+            "descripcion": "6 Tiernas Tiras de Pollo Marinadas con Salsa Chimichurri y Ranchera",
+            "precio": "80",
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 2,
+            "idSeccion": "entrantes",
+            "nombrePlato": "Fingers Queso & Bacon",
+            "descripcion": "6 Fingers de Queso y Bacon, recubiertos en Masa Crujiente y Mermelada de Tomate",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 3,
+            "idSeccion": "entrantes",
+            "nombrePlato": "Aros de Cebolla New Yorker",
+            "descripcion": "Aros de Cebolla a la Cerveza, Salsa Cheddar, Salsa Bolo\u00f1esa, Salsa Ranchera y Lascas de Queso Curado",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 4,
+            "idSeccion": "entrantes",
+            "nombrePlato": "Nachos Hot Mexican",
+            "descripcion": "Con Salsa Chimichurri y Gratinados con mezcla de Quesos, Salsa Bolo\u00f1esa, Pico de Gallo, Jalape\u00f1os, Queso Crema y Guacamole",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 5,
+            "idSeccion": "entrantes",
+            "nombrePlato": "Nachos Burrata",
+            "descripcion": "Con Salsa de Cebolla Ahumada y Salsa Sour Cream, Gratinados con mezcla de Quesos, Burrata fresca, Pico de Gallo y Bacon Ahumado",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 6,
+            "idSeccion": "entrantes",
+            "nombrePlato": "Nachos Cheese Vegetal",
+            "descripcion": "Con Queso Monterrey Jack, Edam, Gousa, Cheddar y Salteado de Setas y Boletus",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        }
+    ],
+    "patatas": [
+        {
+            "idProducto": 1,
+            "idSeccion": "patatas",
+            "nombrePlato": "Bravas",
+            "descripcion": "Con Salsa Brava cl\u00e1sica",
+            "precio": "10",
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 2,
+            "idSeccion": "patatas",
+            "nombrePlato": "Cheese Bacon",
+            "descripcion": "Con Bacon Crujiente, Salsa Ranchera y gratinadas con Mezcla de Quesos",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 3,
+            "idSeccion": "patatas",
+            "nombrePlato": "Pulled pork",
+            "descripcion": "Con Carne de Cerdo Deshilachada, Salsa BBQ Bourbon, Salsa de Queso de Cabra y Queso Parmesano Rallado",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 4,
+            "idSeccion": "patatas",
+            "nombrePlato": "Vegetal Fried",
+            "descripcion": "Con Salteado de Setas y Boletus, Salsa Sour Cream, Lascas de Queso Curado y Cebolla Caramelizada",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 5,
+            "idSeccion": "patatas",
+            "nombrePlato": "Chile Cheese",
+            "descripcion": "Con Queso Monterrey Jack, Edam, Gouda, Cheddar y Salsa Picante",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        }
+    ],
+    "alitas": [
+        {
+            "idProducto": 1,
+            "idSeccion": "alitas",
+            "nombrePlato": "Salsa BBQ",
+            "descripcion": "Al m\u00e1s puro estilo cl\u00e1sico",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 2,
+            "idSeccion": "alitas",
+            "nombrePlato": "Chimichurri Cream",
+            "descripcion": "Salsa Chimichurri y Salsa de Cebolla Ahumada",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 3,
+            "idSeccion": "alitas",
+            "nombrePlato": "Pecado Capital",
+            "descripcion": "Salsa de Queso de Cabra, Confitura de Tomate y Cebolla Caramelizada",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 4,
+            "idSeccion": "alitas",
+            "nombrePlato": "Tijuana",
+            "descripcion": "Ali Oli de Aguacate, Pico de Gallo, Nachos y Jalape\u00f1os",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 5,
+            "idSeccion": "alitas",
+            "nombrePlato": "Bourbon",
+            "descripcion": "Salsa Barbacoa al Bourbon, Salsa Ranchera y Cebolla Crujiente",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 6,
+            "idSeccion": "alitas",
+            "nombrePlato": "Ajo Parmesano",
+            "descripcion": "Queso Parmesano, Ajo Asado y Hierbas Nacionales",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 7,
+            "idSeccion": "alitas",
+            "nombrePlato": "Picadura de Escorpi\u00f3n",
+            "descripcion": "Salsa de Mango y Chile Suave con Topping de pepinillo y Cebolleta",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 8,
+            "idSeccion": "alitas",
+            "nombrePlato": "Pecado Mortal",
+            "descripcion": "Salsa Chipotle y Salsa Mostaza Tropical",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        }
+    ],
+    "compartir": [
+        {
+            "idProducto": 1,
+            "idSeccion": "compartir",
+            "nombrePlato": "Combo entrantes",
+            "descripcion": "4 Fingers Rolled Bacon, 4 Krispy Tenders, 8 Aros de Cebolla New Yorker, Patatas Cheese Bacon",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 2,
+            "idSeccion": "compartir",
+            "nombrePlato": "Combo alitas",
+            "descripcion": "30 Alitas(1-3 sabores), Patatas chile cheese",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        }
+    ],
+    "ensaladas": [
+        {
+            "idProducto": 1,
+            "idSeccion": "ensaladas",
+            "nombrePlato": "Classic Salad",
+            "descripcion": "Lechuga, Tomate, Ma\u00edz, Zanahoria, Huevo CocidProductoo, At\u00fan y Aceitunas",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 2,
+            "idSeccion": "ensaladas",
+            "nombrePlato": "Green Salad",
+            "descripcion": "Mix de Lechuga, Tomates Cherrys, Frutos Secos, Cebolla Crujiente, Queso de Cabra con Salsa de Mostaza Tropical",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 3,
+            "idSeccion": "ensaladas",
+            "nombrePlato": "Sour Cream",
+            "descripcion": "Pollo Empanado, Lascas de Queso Curado, Tomates Cherry, Mix de Lechuga y Salsa Sour Cream",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        }
+    ],
+    "hamburguesas": [
+        {
+            "idProducto": 1,
+            "idSeccion": "hamburguesas",
+            "nombrePlato": "House Classic",
+            "descripcion": "Tomate, Lechuga, Queso Cheddar y Toppings de bac\u00f3n",
+            "precio": "888",
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 2,
+            "idSeccion": "hamburguesas",
+            "nombrePlato": "Mustard Bacon",
+            "descripcion": "Salteado de Setas y Boletus, Lascas de Queso Curado, Salsa Mostaza Tropical, Bacon y Cebolla Frita",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 3,
+            "idSeccion": "hamburguesas",
+            "nombrePlato": "Crujiente Sweet",
+            "descripcion": "Queso de Cabra, Confitura de Tomate, Cebolla Caramelizada y Lechuga",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 4,
+            "idSeccion": "hamburguesas",
+            "nombrePlato": "Rolled Cheese Porn",
+            "descripcion": "Fingers de Queso Rolled Bacon, Queso Cheddar, Salsa Sour Cream, Pepinillo y Cebolleta",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 5,
+            "idSeccion": "hamburguesas",
+            "nombrePlato": "American BBQ",
+            "descripcion": "Carne Deshilachada de Pulled Pork, Salsa de Queso de Cabra y Salsa BBQ Bourbon",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 6,
+            "idSeccion": "hamburguesas",
+            "nombrePlato": "Tropical House Burguer",
+            "descripcion": "Lechuga, Tomate, Jamon York, Queso Cheddar y Bacon",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 7,
+            "idSeccion": "hamburguesas",
+            "nombrePlato": "Bacon cheese burguer",
+            "descripcion": "Doble Carne, Queso Cheddar, Bacon y Salsa de Queso Cheddar",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        }
+    ],
+    "postres": [
+        {
+            "idProducto": 1,
+            "idSeccion": "postres",
+            "nombrePlato": "Gofre ICE&HOT",
+            "descripcion": "2 Gofres recien hechos con Helado de Vainilla, Cholocate y Nata",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 2,
+            "idSeccion": "postres",
+            "nombrePlato": "Chocolate Rolled",
+            "descripcion": "4 Rolled Rellenos de Chocolate Negro fundidProductoo con Helado de Vainilla y Sirope de Chocolate",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 3,
+            "idSeccion": "postres",
+            "nombrePlato": "Tarta 3 Leches",
+            "descripcion": "Delicioso Bizcocho ba\u00f1ado en 3 tipos de leche",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        },
+        {
+            "idProducto": 4,
+            "idSeccion": "postres",
+            "nombrePlato": "Tarta de Chocolate",
+            "descripcion": "Un cl\u00e1sico de la reposteria para los amantes del chocolate",
+            "precio": 8,
+            "urlImagen": "\/img\/52875462-gr\u00e1ficos-brillantes-sin-patr\u00f3n-sabrosas-hamburguesas-en-un-fondo-oscuro.jpg"
+        }
+    ]
+}
